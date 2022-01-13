@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rick Zhang, a first year Software Engineering Student at the University of Waterloo.
--  I’m not sure what I'd like to specialize in, but I'm interested in trying different aspects of software engineering! 
+-  I’m not sure what I'd like to specialize in, but I'm interested in trying different aspects of software engineering!
+-  Feel free to contact me at _____
 
 
 
